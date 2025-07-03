@@ -1,6 +1,9 @@
-# Bachelor Thesis Python Template
+# Prediction of Hospital Emergency Department Attendance
 
-This repository serves as a Python template for Bachelor Thesis projects. Follow the steps below to set up your environment and start working on your thesis.
+Description:
+
+This repository serves as the practical foundation of my Bachelor's Thesis. It includes the setup instructions for the virtual environment and a series of commits covering data cleaning and the implementation of various predictive models, such as: ARIMA, Baseline model, Gradient Boosting, HistGradientBoosting, Random Forest.
+The repository documents the full workflow used to forecast emergency department attendance based on historical hospital data.
 
 ## Prerequisites
 
