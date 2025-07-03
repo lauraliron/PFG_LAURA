@@ -6,7 +6,7 @@ This repository serves as the practical foundation of my Bachelor's Thesis. It i
 The repository documents the full workflow used to forecast emergency department attendance based on historical hospital data.
 
 ## Detailed Folder Description
-- Img folder
+**Img folder** 
 This folder contains the plots generated during the exploratory data analysis. These visualizations include:
 * Detection of outliers
 
@@ -18,7 +18,8 @@ This folder contains the plots generated during the exploratory data analysis. T
 
 * These plots help assess data quality and guide decisions during the preprocessing and modeling phases.
 
-- scr folder
+**scr folder**
+
 This folder contains the Python scripts that define the complete data pipeline. It includes:
 
 * Data cleaning and preprocessing
