@@ -7,7 +7,9 @@ The repository documents the full workflow used to forecast emergency department
 
 ## Detailed Folder Description
 **Img folder** 
+
 This folder contains the plots generated during the exploratory data analysis. These visualizations include:
+
 * Detection of outliers
 
 * Identification of impossible or inconsistent values
